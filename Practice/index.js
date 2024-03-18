@@ -262,21 +262,10 @@ for(let sayi of sayilarDizisi){
 
 //Set ve  Map yapısı
 
-//EventListenner ve selectors
 
 // js ile todo app ve bir kaç uygulama yap
 
 
-
-//DOM 
-
-
-document.getElementById("js").innerHTML = 'Hello'
-const element = document.getElementsByTagName("h1");
-const x = document.querySelectorAll("pintro"); // intro classına sahip p elemenetleri
-//getElementByClassName()
-document.getElementById("myImage").src = "landscape.jpg";
-document.getElementById("renk").style.color = 'red'
 
 
 
